@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "6723cb46dc7c8b0acc1f0147"
+  },
+  "CustomerID": 1,
+  "Name": "John Doe",
+  "Address": "123 Elm St, Brampton",
+  "Phone": "555-1234",
+  "Preferences": "Prefers Jaguar SUVs"
+}]

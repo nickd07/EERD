@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6723cb84dc7c8b0acc1f014b"
+  },
+  "VehicleID": 1,
+  "Make": "Jaguar",
+  "Model": "XJ",
+  "Year": 2022,
+  "Color": "Black",
+  "Upholstery": "Leather",
+  "EngineSize": "V6",
+  "Type": "SUV",
+  "Price": 65000
+},
+{
+  "_id": {
+    "$oid": "6723cd77dc7c8b0acc1f0154"
+  },
+  "VehicleID": 2,
+  "Make": "Mercedes-Benz",
+  "Model": "C-Class",
+  "Year": 2021,
+  "Color": "White",
+  "Upholstery": "Leather",
+  "EngineSize": "V4",
+  "Type": "Sedan",
+  "Price": 45000
+}]
